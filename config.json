@@ -11,7 +11,7 @@
 
 "//": "Bot token ID, needed for authentication.",
 "//": "This is found on the app page when you click to reveal the bot user's token",
-"bot_token": "yourtoken",
+"bot_token": "NDkyNDU3NjIxOTY2NTUzMDk4.DoWs3g.Uy9Nl_b0rs7iCFvb52MN3DhSBRw",
 
 "//": "Default bot prefix. Used if server has not set one.",
 "default_prefix":"!",
